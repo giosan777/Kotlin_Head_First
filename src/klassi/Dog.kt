@@ -1,3 +1,5 @@
+package klassi
+
 class Dog(val name: String, weight_param: Int, breed_param: String) {
 
     init {

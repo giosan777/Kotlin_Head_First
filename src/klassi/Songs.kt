@@ -1,3 +1,5 @@
+package klassi
+
 class Songs(val title: String, artists_param: String) {
     val artists = artists_param
     var weigth:Double=0.0
