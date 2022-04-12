@@ -45,6 +45,7 @@ fun main() {
     println("$value kgs is ${convert(value,kgsToUSTonsLambda)} Us tons")
 
 
+
 }
 
 //    var addFive ={x:Int -> x + 5}
